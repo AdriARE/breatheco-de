@@ -9,60 +9,58 @@ skin: "blue"
 basic_info:
 
     # Your full name
-    first_name: Wonder
-    last_name: Woman
+    first_name: Adrián
+    last_name: Rodríguez Estévez
     
     # Define yourself in 4-5 words
-    motto: I like saving the world
+    motto: I find joy in life’s simple pleasures
     
     # Focus
-    focus: Killing Bad Boys
+    focus: Eager to grow and pursue a fulfilling career change
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
-      Summarize your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Pragmatic and adaptable Naval Engineer with experience as Site Manager of wind farms in Spain and Brazil. 
+      Also worked internationally in the Netherlands. Now seeking a fully remote role to combine professional growth with personal freedom and enjoyment. 
+      Committed to optimizing processes, fostering positive work environments, and delivering meaningful results.
 
-      Second paragraph if required.
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://randomuser.me/api/portraits/women/24.jpg
+    avatar: https://github.com/AdriARE
 
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
-    linkedin: alandoe #optional
+    email: adrian.r.estevez@gmail.com #optional
+    phone:  #optional
+    website:  #optional
+    linkedin: https://www.linkedin.com/in/arestevez/ #optional
     
     #
     # ******** IMPORTANT *******
     # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: example
+    github: AdriARE
     
-    twitter: 'webjeda' #optional
+    twitter: #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # Languages you speak, levels include: Native, Professional
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
-      - idiom: French
+      - idiom: Portugues
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     # Interests or hobbies
     interests:
-      - item: Climbing
+      - item: Kayak
 
-      - item: Snowboarding
+      - item: Beach
 
-      - item: Cooking
+      - item: Swim
 
 # Your previous education
 education:
